@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 fgiuhug
+=======
+fgiuhgeg
+>>>>>>> 37537270c53018af3645f2a95a4fa88b521b3355
 asgasoghgashghaosdgoioiwrg
 
 asgashdgouasdg
